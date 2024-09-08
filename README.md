@@ -4,6 +4,8 @@
 
 Wellness Bot is an intelligent chatbot designed to help users maintain and improve their mental and physical well-being. The bot provides users with personalized tips, reminders, and activities to promote a healthy lifestyle. Whether you're looking for relaxation techniques, workout suggestions, or mental health advice, Wellness Bot is here to guide you.
 
+<img width="35%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZvY2dqaDA4OWJjMThpcjQ3bmt4b3dtOXE4OHZseXU3dW5hd3AzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMg7wBHYhS3p5ER9y6/giphy.webp">
+
 ## Features
 
 - 💡 **Daily Wellness Tips:** Get daily tips on mental health, physical exercise, and nutrition.
